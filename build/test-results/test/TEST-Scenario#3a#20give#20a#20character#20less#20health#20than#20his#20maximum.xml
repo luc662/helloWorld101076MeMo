@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: give a character less health than his maximum" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-06-16T22:54:06" hostname="DESKTOP-R3HTV5F" time="0.004">
+  <properties/>
+  <testcase name="Given a NPC with health of 1000 and a max of 2000" classname="Scenario: give a character less health than his maximum" time="0.001"/>
+  <testcase name="When is healed 20" classname="Scenario: give a character less health than his maximum" time="0.0"/>
+  <testcase name="Then his health should be 1020" classname="Scenario: give a character less health than his maximum" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: give a character less health than his maximum" time="0.105"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

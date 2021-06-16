@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: attack a character with more damage than his maximum" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-16T22:54:06" hostname="DESKTOP-R3HTV5F" time="0.002">
+  <properties/>
+  <testcase name="Given a NPC with health of 10 and a max of 20" classname="Scenario: attack a character with more damage than his maximum" time="0.0"/>
+  <testcase name="When receive an attack of 20" classname="Scenario: attack a character with more damage than his maximum" time="0.0"/>
+  <testcase name="Then the NPC is killed" classname="Scenario: attack a character with more damage than his maximum" time="0.0"/>
+  <testcase name="And his health should be 0" classname="Scenario: attack a character with more damage than his maximum" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: attack a character with more damage than his maximum" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
